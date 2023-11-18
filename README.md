@@ -1,2 +1,2 @@
 # hust-sml
- sml language
+ SML 语言
